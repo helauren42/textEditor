@@ -33,7 +33,6 @@ export const Menu = () => {
 				<img src="/images/bold.svg" alt="bold" title="bold" />
 				<img src="/images/italic.svg" alt="italic" title="italic" />
 				<img src="/images/underline.svg" alt="underline" title="underline" />
-				<img src="/images/strikethrough.svg" alt="strikethrough" title="strikethrough" />
 			</div>
 			<div className="menu-group">
 				{/* <img src="/images/text.svg" alt="previous" title="previous" /> */}
@@ -62,8 +61,8 @@ export const Menu = () => {
 				<img src="/images/align-right.svg" alt="text-align-right" title="text-align-right" />
 			</div>
 			<div className="menu-group">
-				<img src="/images/ordered-list.svg" alt="ordered-list" title="ordered-list" />
-				<img src="/images/bullet-points.svg" alt="bullet-points" title="bullet-points" />
+				<img src="/images/list-numbers.svg" alt="list-numbers" title="list-numbers" />
+				<img src="/images/list-points.svg" alt="list-points" title="list-points" />
 			</div>
 			<div className="menu-group">
 				<img src="/images/link.svg" alt="link" title="link" />
